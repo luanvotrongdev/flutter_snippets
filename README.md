@@ -5,4 +5,4 @@
 
 snippet | demo
 ------------ | -------------
-slider_floating_indicator | ![](https://media.giphy.com/media/9qZEg7wu7MPA8N9yKc/giphy.gif)
+[slider_floating_indicator](/slider_floating_indicator.dart)| ![](https://media.giphy.com/media/9qZEg7wu7MPA8N9yKc/giphy.gif)
