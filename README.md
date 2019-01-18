@@ -1,5 +1,7 @@
 # flutter_snippets
-*Collection of my flutter samples.*
+**Collection of my flutter idea samples.**
+
+*Please be aware that some of these samples are just my idea implementation and not yet suitable for product yet*
 
 snippet | demo
 ------------ | -------------
